@@ -1,6 +1,6 @@
-*Boas vindas ao meu perfil 💙💙*
+_*Boas vindas ao meu perfil 💙💙*_
 
-Meu nome é Yasmin Fernandes}
+Meu nome é Yasmin Fernandes
 
 
 Estou estudando na Alura
@@ -11,7 +11,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 
 
-*Você pode entrar em contato comigo 📫*
+_*Você pode entrar em contato comigo 📫*_
 
 yasminminfm01@gmail.com
 
