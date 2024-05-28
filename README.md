@@ -1,4 +1,4 @@
-_*Boas vindas ao meu perfil 💙💙*_
+_Boas vindas ao meu perfil 💙💙_
 
 Meu nome é Yasmin Fernandes
 
@@ -11,7 +11,7 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 
 
 
-_*Você pode entrar em contato comigo 📫*_
+_Você pode entrar em contato comigo 📫_
 
 yasminminfm01@gmail.com
 
